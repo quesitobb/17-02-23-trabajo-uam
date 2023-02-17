@@ -1,0 +1,9 @@
+body{
+    background: url("../images/imagen.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    font-family: 'Avenir', sans-serif; 
+  }
+  
